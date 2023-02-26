@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Revolutionize Your Life with ChatGPT</title>
+   
   </head>
   <body>
     <h1>How to Revolutionize Your Life with ChatGPT</h1>
