@@ -4,8 +4,8 @@
    
   </head>
   <body>
-    <a        
-        href="<h1>How to Revolutionize Your Life with ChatGPT</h1>">https://4094869893891.gumroad.com/l/RevolutionizeYourDailyLifewithChatGPT</a>
+    <h1><a        
+        href="How to Revolutionize Your Life with ChatGPT">https://4094869893891.gumroad.com/l/RevolutionizeYourDailyLifewithChatGPT</a></h1>
     
     <p>
       Have you ever wanted to transform your life but didn't know where to start? Well, look no further than <em>Revolutionize Your Life with ChatGPT</em>! This book is packed with practical advice and insights on how to improve your daily routine, achieve your goals, and ultimately lead a more fulfilling life.
